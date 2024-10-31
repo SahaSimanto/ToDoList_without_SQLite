@@ -2,7 +2,7 @@
 Assignment 2 of Course CSE464 Section 1
 
 Created a Linear Layout containing:
-1) ListView: That updates on Button press
+1) ListView: Updates on Button press
 2) EditText: A field to add the new Items/Tasks
-3) Button: That updates the ListView after the new Items/Tasks are written in the EditText field
+3) Button: Updates the ListView after the new Items/Tasks are written in the EditText field
 
