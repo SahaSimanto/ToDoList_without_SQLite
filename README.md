@@ -1,5 +1,5 @@
 # Simanto_Saha_ID_2130220_CSE464_1_Assignment_2_ToDoList_without_SQLite
-Assignment 2 of CSE464 Section 1
+Assignment 2 of Course CSE464 Section 1
 
 Created a Linear Layout containing:
 1) ListView: That updates when new Items/Tasks are added
